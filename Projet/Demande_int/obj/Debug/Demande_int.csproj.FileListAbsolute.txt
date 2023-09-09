@@ -1,0 +1,8 @@
+C:\Users\cleme\Desktop\IUT\Informatique\perso\Demande_int\Demande_int\bin\Debug\Demande_int.exe.config
+C:\Users\cleme\Desktop\IUT\Informatique\perso\Demande_int\Demande_int\bin\Debug\Demande_int.exe
+C:\Users\cleme\Desktop\IUT\Informatique\perso\Demande_int\Demande_int\bin\Debug\Demande_int.pdb
+C:\Users\cleme\Desktop\IUT\Informatique\perso\Demande_int\Demande_int\obj\Debug\Demande_int.csproj.AssemblyReference.cache
+C:\Users\cleme\Desktop\IUT\Informatique\perso\Demande_int\Demande_int\obj\Debug\Demande_int.csproj.SuggestedBindingRedirects.cache
+C:\Users\cleme\Desktop\IUT\Informatique\perso\Demande_int\Demande_int\obj\Debug\Demande_int.csproj.CoreCompileInputs.cache
+C:\Users\cleme\Desktop\IUT\Informatique\perso\Demande_int\Demande_int\obj\Debug\Demande_int.exe
+C:\Users\cleme\Desktop\IUT\Informatique\perso\Demande_int\Demande_int\obj\Debug\Demande_int.pdb
