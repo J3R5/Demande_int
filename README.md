@@ -4,7 +4,7 @@
 
 Ce répertoire va présenter une fonction qui permet de demander à l'utilisateur de saisir un nombre entier. La fonction possède 4 paramètres optionnels comme le minimum à saisir, le maximum et le message affiché.
 
-Code : [Projet](https://github.com/J3R5/Demande_int/tree/main/Executable)
+Code : [Projet](https://github.com/J3R5/Demande_int/tree/main/Projet)
 
 Application : [Console.exe](https://github.com/J3R5/Demande_int/tree/main/Executable)
 
